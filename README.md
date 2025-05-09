@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
-* <a href='https://weekly.tw93.fun/posts/212-%E8%B6%85%E5%B1%B1%E7%9C%8B%E6%A2%85/' target='_blank'>第212期 - 超山看梅</a> - 2025-03-03
-* <a href='https://weekly.tw93.fun/posts/211-%E6%A0%91%E5%B9%B2%E8%93%9D%E5%A4%A9/' target='_blank'>第211期 - 树干蓝天</a> - 2025-02-24
-* <a href='https://weekly.tw93.fun/posts/210-%E9%9C%87%E6%92%BC%E7%83%9F%E5%9B%B1/' target='_blank'>第210期 - 震撼烟囱</a> - 2025-02-17
-* <a href='https://weekly.tw93.fun/posts/209-%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4/' target='_blank'>第209期 - 又是一年</a> - 2025-02-09
-* <a href='https://weekly.tw93.fun/posts/208-%E9%85%8D%E6%96%B0%E7%94%B5%E8%84%91/' target='_blank'>第208期 - 配新电脑</a> - 2025-01-13
+* <a href='https://weekly.tw93.fun/posts/220-%E4%B8%80%E9%A2%97%E5%BF%83%E6%A0%91/' target='_blank'>第220期 - 一颗心树</a> - 2025-04-28
+* <a href='https://weekly.tw93.fun/posts/219-%E4%B8%80%E8%89%98%E6%B4%BB%E8%88%B9/' target='_blank'>第219期 - 一艘活船</a> - 2025-04-21
+* <a href='https://weekly.tw93.fun/posts/218-%E5%8B%BE%E7%8B%97%E5%8F%AF%E7%88%B1/' target='_blank'>第218期 - 勾狗可爱</a> - 2025-04-14
+* <a href='https://weekly.tw93.fun/posts/217-%E5%8E%BB%E9%9C%B2%E4%B8%AA%E8%90%A5/' target='_blank'>第217期 - 去露个营</a> - 2025-04-07
+* <a href='https://weekly.tw93.fun/posts/216-%E5%90%83%E4%B8%AA%E7%82%92%E9%A5%AD/' target='_blank'>第216期 - 吃个炒饭</a> - 2025-03-31
 <!-- weekly ends -->
 
 </td>
