@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
-* <a href='https://weekly.tw93.fun/posts/212-%E8%B6%85%E5%B1%B1%E7%9C%8B%E6%A2%85/' target='_blank'>第212期 - 超山看梅</a> - 2025-03-03
-* <a href='https://weekly.tw93.fun/posts/211-%E6%A0%91%E5%B9%B2%E8%93%9D%E5%A4%A9/' target='_blank'>第211期 - 树干蓝天</a> - 2025-02-24
-* <a href='https://weekly.tw93.fun/posts/210-%E9%9C%87%E6%92%BC%E7%83%9F%E5%9B%B1/' target='_blank'>第210期 - 震撼烟囱</a> - 2025-02-17
-* <a href='https://weekly.tw93.fun/posts/209-%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4/' target='_blank'>第209期 - 又是一年</a> - 2025-02-09
-* <a href='https://weekly.tw93.fun/posts/208-%E9%85%8D%E6%96%B0%E7%94%B5%E8%84%91/' target='_blank'>第208期 - 配新电脑</a> - 2025-01-13
+* <a href='https://weekly.tw93.fun/posts/228-%E5%BD%A9%E8%89%B2%E5%A4%A9%E7%A9%BA/' target='_blank'>第228期 - 彩色天空</a> - 2025-07-07
+* <a href='https://weekly.tw93.fun/posts/227-%E6%80%80%E5%BF%B5%E4%BA%94%E6%9C%88/' target='_blank'>第227期 - 怀念五月</a> - 2025-06-30
+* <a href='https://weekly.tw93.fun/posts/226-%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/' target='_blank'>第226期 - 我爱南京</a> - 2025-06-23
+* <a href='https://weekly.tw93.fun/posts/225-%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%99%A2/' target='_blank'>第225期 - 中国美院</a> - 2025-06-16
+* <a href='https://weekly.tw93.fun/posts/224-%E5%88%9D%E8%A7%81%E6%9D%A8%E6%A2%85/' target='_blank'>第224期 - 初见杨梅</a> - 2025-06-09
 <!-- weekly ends -->
 
 </td>
